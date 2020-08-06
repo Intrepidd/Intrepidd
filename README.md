@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Adrien, a developer specialized in Ruby & Javascript.
+
+I try to make the world a tad better with code. 
+
+After helping sharing cars 🚗 @ Drivy/Getaround for 4 years, I'm moving on to help on another field 🍽
+
+I like writing simple code, starting small and iterating.
 
 <!--
 **Intrepidd/Intrepidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
