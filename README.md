@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Intrepidd&count_private=true&theme=dark" />
 I'm Adrien, a developer specialized in Ruby & Javascript.
 
 I try to make the world a tad better with code. 
