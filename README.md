@@ -8,6 +8,14 @@ After helping sharing cars 🚗 @ Drivy/Getaround for 4 years, I'm moving on to 
 
 I like writing simple code, starting small and iterating.
 
+Some of my contributions : 
+- [Ruby on Rails](https://contributors.rubyonrails.org/contributors/adrien-siami/commits)
+- [Bundler](https://github.com/rubygems/bundler/pull/3195)
+- [Rubocop](https://github.com/rubocop/rubocop/pulls?q=is%3Apr+author%3AIntrepidd+is%3Aclosed)
+- [turbo-rails](https://github.com/hotwired/turbo-rails/pull/17)
+- [Geocoder](https://github.com/alexreisner/geocoder/pull/1480)
+- [And others !](https://github.com/pulls?q=is%3Apr+author%3AIntrepidd+archived%3Afalse+is%3Amerged)
+
 <!--
 **Intrepidd/Intrepidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
