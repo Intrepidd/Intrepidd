@@ -4,7 +4,7 @@ I'm Adrien, a developer specialized in Ruby & Javascript.
 
 I try to make the world a tad better with code. 
 
-After helping sharing cars 🚗 @ Drivy/Getaround for 4 years, I'm moving on to help on another field 🍽
+After helping sharing cars 🚗 @ [Drivy/Getaround](https://fr.getaround.com) for 4 years, I'm now tech lead @ [Écotable](https://ecotable.fr/) 🍽
 
 I like writing simple code, starting small and iterating.
 
