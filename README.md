@@ -14,6 +14,7 @@ Some of my contributions :
 - [Rubocop](https://github.com/rubocop/rubocop/pulls?q=is%3Apr+author%3AIntrepidd+is%3Aclosed)
 - [turbo](https://github.com/hotwired/turbo/pull/299)
 - [turbo-rails](https://github.com/hotwired/turbo-rails/pull/17)
+- [hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload/pull/47)
 - [Geocoder](https://github.com/alexreisner/geocoder/pull/1480)
 - [uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart/pull/24)
 - [And others !](https://github.com/pulls?q=is%3Apr+author%3AIntrepidd+archived%3Afalse+is%3Amerged)
