@@ -18,6 +18,7 @@ Some of my contributions :
 - [message_bus](https://github.com/discourse/message_bus/pull/330)
 - [Geocoder](https://github.com/alexreisner/geocoder/pulls?q=is:pr+is:closed+author:Intrepidd)
 - [uppy-s3_multipart](https://github.com/janko/uppy-s3_multipart/pull/24)
+- [hubspot-api-ruby](https://github.com/captaincontrat/hubspot-api-ruby/pull/6)
 - [And others !](https://github.com/pulls?q=is%3Apr+author%3AIntrepidd+archived%3Afalse+is%3Amerged)
 
 <!--
