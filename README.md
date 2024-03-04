@@ -12,7 +12,7 @@ Some of my contributions :
 - [Ruby on Rails](https://contributors.rubyonrails.org/contributors/adrien-siami/commits)
 - [Bundler](https://github.com/rubygems/bundler/pull/3195)
 - [Rubocop](https://github.com/rubocop/rubocop/pulls?q=is%3Apr+author%3AIntrepidd+is%3Aclosed)
-- [turbo](https://github.com/hotwired/turbo/pull/299)
+- [turbo](https://github.com/hotwired/turbo/pulls?q=is:pr+author:Intrepidd+is:merged)
 - [turbo-rails](https://github.com/hotwired/turbo-rails/pull/17)
 - [hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload/pull/47)
 - [message_bus](https://github.com/discourse/message_bus/pull/330)
