@@ -4,14 +4,14 @@ I'm Adrien, a developer specialized in Ruby & Javascript.
 
 I try to make the world a tad better with code. 
 
-After helping sharing cars 🚗 @ [Drivy/Getaround](https://fr.getaround.com) for 4 years, I'm now CTO @ [Écotable](https://ecotable.fr/) 🍽
-
 I like writing simple code, starting small and iterating.
 
 Some of my contributions : 
 - [Ruby on Rails](https://contributors.rubyonrails.org/contributors/adrien-siami/commits)
 - [Bundler](https://github.com/rubygems/bundler/pull/3195)
 - [Rubocop](https://github.com/rubocop/rubocop/pulls?q=is%3Apr+author%3AIntrepidd+is%3Aclosed)
+- [SolidQueue](https://github.com/rails/solid_queue/pulls?q=is:pr+author:Intrepidd+is:merged)
+- [MissionControl](https://github.com/rails/mission_control-jobs/pulls?q=is:pr+author:Intrepidd+is:merged)
 - [turbo](https://github.com/hotwired/turbo/pulls?q=is:pr+author:Intrepidd+is:merged)
 - [turbo-rails](https://github.com/hotwired/turbo-rails/pull/17)
 - [hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload/pull/47)
