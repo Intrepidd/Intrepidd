@@ -12,6 +12,7 @@ Some of my contributions :
 - [Rubocop](https://github.com/rubocop/rubocop/pulls?q=is%3Apr+author%3AIntrepidd+is%3Aclosed)
 - [SolidQueue](https://github.com/rails/solid_queue/pulls?q=is:pr+author:Intrepidd+is:merged)
 - [MissionControl](https://github.com/rails/mission_control-jobs/pulls?q=is:pr+author:Intrepidd+is:merged)
+- [GoodJob](https://github.com/bensheldon/good_job/pulls?q=is:pr+is:merged+author:Intrepidd)
 - [turbo](https://github.com/hotwired/turbo/pulls?q=is:pr+author:Intrepidd+is:merged)
 - [turbo-rails](https://github.com/hotwired/turbo-rails/pull/17)
 - [hotwire-livereload](https://github.com/kirillplatonov/hotwire-livereload/pull/47)
